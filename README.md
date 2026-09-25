@@ -5,7 +5,7 @@ detail from [shopgoodwill.com](https://shopgoodwill.com) — the online auction
 site run by Goodwill member organizations (170+ regional sellers listing
 cameras, jewelry, watches, art, electronics, instruments and collectibles).
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1669+ live data sources.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1679+ live data sources.
 
 The closed-auction search is the comps value: it returns what lots actually
 sold for (final hammer price and bid count), reaching back roughly 90 days.
@@ -88,7 +88,7 @@ directly, instead of just this one's:
 }
 ```
 
-Both URLs reach the same gateway and the same 1669+ data sources. The
+Both URLs reach the same gateway and the same 1679+ data sources. The
 only difference is which pack's tools are listed **directly**; `ask_pipeworx`
 reaches all of them from either one.
 
