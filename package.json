@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-shopgoodwill",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "ShopGoodwill auctions — active listings, closed auctions with final sale",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-b5edc6d0d714b844ef6bcf1f6a8091fcec61379ffcce909ae959e419c0b9acf3",
-    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
+    "sourceHash": "v1-e53928daeecccd8ac48c2edc392b20e0933da171e6a98a8dfe3dc2de88c5ba66",
+    "sourceCommit": "d4a9636716f113458bd312e487c065f76548df8c"
   }
 }
