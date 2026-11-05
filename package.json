@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-shopgoodwill",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "ShopGoodwill auctions — active listings, closed auctions with final sale prices, and per-item detail from shopgoodwill.com, the online auction site run by Goodwill member organizations (170+ regional sellers, everything from cameras and jewelry to art and collectibles).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "shopgoodwill",
     "gatewaySlug": "shopgoodwill",
-    "sourceHash": "v1-2f46afc252860272873cdeb34a467e1052e61461480848d49eab0b8849d876ac",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-924bc8b25558d24f293fa6a3883f69f7b1953d9fc1a65dc4742f9e1330113776",
+    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
   }
 }
